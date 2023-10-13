@@ -1,7 +1,7 @@
-# Machine Learning Specialization Overview
+# Machine Learning Specialization
 (Standford online / DeepLearning.AI curriculum offered via Coursera)
 
-This repository summarizes the courses taken and the skills I gained through completion of the specialization. (Due to Coursera's honor code, course work/code cannot be shared.)
+This repository provides an overview of the courses taken and the skills I gained through completion of the specialization. (In accordance with Coursera's honor code, course work/code cannot be shared.)
 
 [ML Specialization url](https://www.coursera.org/specializations/machine-learning-introduction)
 
@@ -26,25 +26,24 @@ This repository summarizes the courses taken and the skills I gained through com
 * Reinforcement Learning
 
 
-## Courses
+## Courses and Modules
 ### Supervised Machine Learning: Regression and Classification
 
-**Module 1:** Introduction to Machine Learning<br>
-**Module 2:** Regression with Multiple Input Variables<br>
-**Module 3:** Classification<br>
+* Introduction to Machine Learning
+* Regression with Multiple Input Variables
+* Classification
 
 ### Advanced Learning Algorithms
 
-**Module 1:** Neural Networks<br>
-**Module 2:** Neural Network Training<br>
-**Module 3:** Advice for Applying Machine Learning<br>
-**Module 4:** Decision Trees<br>
-
+* Neural Networks
+* Neural Network Training
+* Advice for Applying Machine Learning
+* Decision Trees
 
 ### Unsupervised Learning, Recommenders, Reinforcement Learning
 
-**Module 1:** Unsupervised Learning<br>
-**Module 2:** Recommender Systems<br>
-**Module 3:** Reinforcement Learning<br>
+* Unsupervised Learning
+* Recommender Systems
+* Reinforcement Learning
 
 
